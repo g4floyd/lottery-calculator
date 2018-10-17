@@ -45,7 +45,7 @@
     }
   },
   "homepage": "https://html5boilerplate.com/",
-  "license": "MIT",
+  "license": "BSD-2-Clause",
   "name": "html5-boilerplate",
   "scripts": {
     "build": "gulp build",
@@ -64,5 +64,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/h5bp/html5-boilerplate.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/h5bp/html5-boilerplate/issues"
+  },
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": ""
 }
